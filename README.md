@@ -3,7 +3,7 @@
 <!--
 **Diprekshya/Diprekshya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Aspiring marketing & business analyst passionate about data-driven decision-making, digital strategy, and consumer insights. Currently pursuing a B.A. in Business Administration & Quantitative Economics.
 
 - 🔭 I’m currently working on digital marketing projects and applying for jobs
 - 🌱 I’m currently learning about  consumer behavior and digital strategies
