@@ -27,4 +27,4 @@ Aspiring marketing & business analyst passionate about data-driven decision-maki
 - **Girls in Marketing Digital Internship**: Strengthened digital marketing expertise.  
 
 ## 📫 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/diprekshya-maharjan/) | [Email](dipreksyha@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/diprekshya-maharjan/) | [Email](diprekshya@gmail.com)  
