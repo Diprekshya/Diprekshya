@@ -1,10 +1,10 @@
 ## Hi, I'm Diprekshya Maharjan!  👋
 
-Aspiring marketing & business analyst passionate about data-driven decision-making, digital strategy, and consumer insights. Currently pursuing a B.A. in Business Administration & Quantitative Economics at Earlham College.  
+Aspiring marketing & business analyst passionate about data-driven decision-making, digital strategy, and consumer insights. Recently graduated with a B.A. in Business Administration (Marketing Track) & Quantitative Economics at Earlham College. Incoming M.S. Business Analytics at UC Davis. 
 
 ## 🚀 About Me  
 - 🔭 Currently working on digital marketing projects & applying for jobs.  
-- 🌱 Learning about consumer behavior, digital strategies, and GMAT prep.  
+- 🌱 Learning about consumer behavior, digital strategies, and product marketing/ management.  
 - 👯 Looking to collaborate on marketing analytics and business research.  
 - 💡 Interested in data-driven storytelling and consumer behavior analysis.
 - 💬 Ask me about marketing strategy, quantitative economics, and digital media
@@ -14,9 +14,10 @@ Aspiring marketing & business analyst passionate about data-driven decision-maki
 ## 🛠️ Skills  
 - **Marketing & Analytics**: Digital strategy, social media marketing, performance tracking  
 - **Data & Research**: Quantitative economics, econometrics, business intelligence  
-- **Technical**: R (basic), Excel, Bitwig (music production)  
+- **AI & Productivity Tools**: R (basic), Excel, Bitwig (music production), Claude, ChatGPT, Python (basic)  
 
 ## 💼 Professional Experience  
+- **Product & Market Strategy**: Built feature positioning narratives grounded in user behavior data, demonstrating the ability to bridge technical product updates with market-facing messaging that resonates with end users for BeReal.
 - **Marketing & Content Creation**: Managed digital content for Tonymoly Nepal, increasing brand engagement.  
 - **Research & Analysis**: Conducted a faculty-led research project on employee commitments & firm productivity.  
 - **Leadership**: President of the Investment Club, Hult Prize participant & team leader.  
