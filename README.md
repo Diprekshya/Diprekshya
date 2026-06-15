@@ -22,27 +22,10 @@ I don't just make content. I build systems that scale.
 
 ---
 
-## A Few Things I've Built
-
-📲 **Tonymoly Nepal** — Led social strategy end-to-end.
-+33% followers in one month. +40% post engagement. +25% brand engagement. +15% online sales.
-
-🎧 **Beats by Dre** *(Extern)* — Researched Gen Z consumer behavior and delivered brand positioning recommendations to find whitespace in the premium wireless audio market.
-
-🎯 **BeReal** *(Extern)* - Built product positioning narratives and GTM strategy grounded in user behavior data, bridging technical updates with messaging that lands.
-
-📣 **TikTok (All Basics Uniforms)** *(Extern)* — Delivered a full TikTok + Instagram content system: UGC framework, experimentation roadmap, metrics tracking, example assets.
-
-🏆 **Hult Prize 2023 & 2024** — Developed and pitched startup ideas globally. Once wasn't enough ;)
-
-📊 **Senior Thesis** — Analyzed tourism's contribution to GDP and employment across Nepal vs. Switzerland. (Yes, I made econometrics interesting.)
-
----
-
 ## Currently
 
 - 📚 Incoming **M.S. Business Analytics** @ UC Davis · Fall 2026
-- 💼 Open to full-time roles in **brand strategy, product marketing & social media**
+- 💼 Open to full-time roles and internships in **brand strategy, product marketing & social media**
 - 🔨 Building product marketing projects and refining my GTM toolkit
 - 📍 California, USA · She/Her
 
