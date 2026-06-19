@@ -24,9 +24,9 @@ I don't just make content. I build systems that scale.
 
 ## Currently
 
-- 📚 Incoming **M.S. Business Analytics** @ UC Davis · Fall 2026
-- 💼 Open to full-time roles and internships in **brand strategy, product marketing & social media**
-- 🔨 Building product marketing projects and refining my GTM toolkit
+- Incoming **M.S. Business Analytics** @ UC Davis · Fall 2026
+- Open to full-time roles and internships in **brand strategy, product marketing & social media**
+- Building product marketing projects and refining my GTM toolkit
 - 📍 California, USA · She/Her
 
 ---
